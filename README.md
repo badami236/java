@@ -1,3 +1,6 @@
+
+ep 3:
+
 docker:
 login docker
 create folder on desktop
@@ -19,6 +22,10 @@ open terminal
   open
 
 
+
+
+
+ep 2:
 
 maven:
 open eclipse
